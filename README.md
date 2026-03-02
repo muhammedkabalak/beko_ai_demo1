@@ -31,7 +31,6 @@ Sistemi herhangi bir Windows bilgisayarda tek tıkla çalıştırmak için:
 * `beko_arayuz.py`: Ana arayüz ve analiz kodları.
 * `runs/`: Eğitilmiş model ağırlıklarını (`best.pt`) barındıran klasör.
 * `requirements.txt`: Gerekli kütüphane listesi.
-* `test_resmi.jpg`: Örnek deneme görseli.
 
 ---
 *Bu çalışma, Beko kalite kontrol standartları gözetilerek bir mezuniyet tezi kapsamında hazırlanmıştır.* 
