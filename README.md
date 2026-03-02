@@ -1,6 +1,6 @@
 # 🚀 Beko AI - Buzdolabı Montaj Hata Tespit Sistemi
 
-Bu proje, Beko üretim hattındaki montaj süreçlerini yapay zeka ile denetlemek ve hatalı üretimleri minimize etmek amacıyla geliştirilmiş bir mezuniyet tez çalışmasıdır. [cite: 2025-11-24] Sistem, yüksek çözünürlüklü sanayi tipi görseller üzerinde gerçek zamanlı hata analizi gerçekleştirmektedir. [cite: 2026-02-09]
+Bu proje, Beko üretim hattındaki montaj süreçlerini yapay zeka ile denetlemek ve hatalı üretimleri minimize etmek amacıyla geliştirilmiş bir mezuniyet tez çalışmasıdır. Sistem, yüksek çözünürlüklü sanayi tipi görseller üzerinde gerçek zamanlı hata analizi gerçekleştirmektedir.
 
 
 
