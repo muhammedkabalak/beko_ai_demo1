@@ -23,7 +23,6 @@ Sistemi herhangi bir Windows bilgisayarda tek tıkla çalıştırmak için:
 
 1.  **Projeyi İndirin:** Klasörü bilgisayarınıza kopyalayın.
 2.  **`baslat.bat` Dosyasını Çalıştırın:** Klasördeki bu dosyaya çift tıklayın. Script; sanal ortamı (`beko_env`) kuracak, gerekli kütüphaneleri yükleyecek ve sistemi otomatik başlatacaktır.
-3.  **Analiz:** Açılan tarayıcı ekranından `test_resmi.jpg` dosyasını yükleyerek sistemi test edin.
 
 
 
