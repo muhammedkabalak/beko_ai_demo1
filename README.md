@@ -12,7 +12,7 @@ Bu proje, Beko üretim hattındaki montaj süreçlerini yapay zeka ile denetleme
 ## 🛠️ Teknik Özellikler
 | Bileşen | Detay |
 | :--- | :--- |
-| **Dil / Sürüm** | Python 3.12 [cite: 2026-02-09] |
+| **Dil / Sürüm** | Python 3.12  |
 | **Algoritma** | YOLOv11 - Image Classification |
 | **Sınıflar** | `ok`, `eksik_vida`, `aparatsiz`, `diger` |
 | **Kütüphaneler** | Ultralytics, Streamlit, OpenCV, Torch (CUDA)  |
