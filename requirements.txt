@@ -1,0 +1,9 @@
+# Beko AI Kalite Kontrol Sistemi - Bağımlılık Listesi
+ultralytics
+streamlit
+opencv-python
+torch
+torchvision
+torchaudio
+pillow
+pandas
